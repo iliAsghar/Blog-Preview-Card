@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: []
-- Live Site URL: []
+- Live Site URL: (Github Pages)[https://iliasghar.github.io/Blog-Preview-Card/]
 
 ## My process
 
@@ -55,7 +55,7 @@ i didn't run into much problems, however, something that i learned throughout th
 ```
 
 i also tried to use the BEM naming as much as possible .
-### Continued development
+### Continued devwelopment
 
 for future projects , i hope to get better at naming my classes and ids and get used to BEM naming.
 
