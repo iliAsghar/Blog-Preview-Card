@@ -53,6 +53,13 @@ body {
   box-shadow: 16px 16px var(--black);
 }
 
+.card:active {
+  transition: box-shadow 50ms ease-out,
+              transform 50ms ease-out;
+  transform: translate(2px , 2px);
+  box-shadow: 6px 6px var(--black);
+}
+
 .card:hover .card__title {
   color: var(--yellow);
 }
