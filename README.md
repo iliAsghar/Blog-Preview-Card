@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (My solution)[https://www.frontendmentor.io/solutions/blog-preview-card-NMpfgmdPPo]
-- Live Site URL: (Live page)[https://iliasghar.github.io/Blog-Preview-Card/]
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/blog-preview-card-NMpfgmdPPo)
+- Live Site URL: [Live page](https://iliasghar.github.io/Blog-Preview-Card/)
 
 ## My process
 
